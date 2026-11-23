@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-const hostname = 'https://sugargoospreadsheet-budget.com'
-const siteTitle = 'Sugargoo Spreadsheet Budget Finder'
-const siteDescription = 'Browse Sugargoo Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
+const hostname = 'https://litbuyspreadsheet-budget.com'
+const siteTitle = 'Litbuy Spreadsheet Budget Finder'
+const siteDescription = 'Browse Litbuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
 
 export default defineConfig({
   title: siteTitle,
@@ -59,12 +59,12 @@ export default defineConfig({
     siteTitle,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Sugargoo' },
-      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Sugargoo' },
-      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Sugargoo' },
-      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Sugargoo' },
+      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Litbuy' },
+      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Litbuy' },
+      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Litbuy' },
+      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Litbuy' },
       { text: 'Brands', link: '/#featured-brands' },
-      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo' },
+      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy' },
     ],
     sidebar: false,
     outline: false,
