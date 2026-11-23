@@ -4,7 +4,7 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 
 <div class="litbuy-page">
 <section class="reference-hero">
-<p class="hero-count">SUGARGOO SPREADSHEET · BUDGET FINDER</p>
+<p class="hero-count">LITBUY SPREADSHEET · BUDGET FINDER</p>
 <h1>Find budget<br><span>data faster</span></h1>
 <p class="hero-subtitle">A structured directory for Litbuy Spreadsheet links</p>
 <p class="hero-copy">Use category, brand, and budget shortcuts to open the relevant external data view. This site is a navigation tool, not a store.</p>
@@ -14,7 +14,7 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <span class="status-chip">Check current data at destination</span>
 </div>
 <div class="hero-actions">
-<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy">Open All Finds ↗</a>
+<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy">Open All Finds ↗</a>
 <a class="hero-action secondary-action" href="#how-to-order">⚡ How to Order · 30s</a>
 </div>
 </section>
@@ -31,11 +31,11 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <p class="field-note">Search is a visual prompt. Open a directory below to check live external records.</p>
 <div class="filter-row" aria-label="Budget shortcuts">
 <span class="filter-caption">Budget</span>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&price=all">All Prices</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&price=under-10">Under $10</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&price=10-20">$10–$20</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&price=20-40">$20–$40</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&price=40-plus">$40+</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&price=all">All Prices</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&price=under-10">Under $10</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&price=10-20">$10–$20</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&price=20-40">$20–$40</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&price=40-plus">$40+</a>
 </div>
 </section>
 
@@ -44,14 +44,14 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Browse budget data by category</h2>
 <p class="section-intro">Choose a category to open the matching external view. Prices, availability, and product records can change.</p>
 <div class="category-list">
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Litbuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Litbuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=Litbuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Litbuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=Litbuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Litbuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=Litbuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=Litbuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=litbuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=litbuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=litbuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=litbuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=litbuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=litbuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=litbuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=litbuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
 </div>
 </section>
 
@@ -60,18 +60,18 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Open a brand-filtered view</h2>
 <p class="section-intro">These buttons open external data views. Brand names are navigation labels only and do not imply authorization, authenticity, or endorsement.</p>
 <div class="brand-list">
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Nike">Nike</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=adidas">adidas</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Jordan">Jordan</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=AMIRI">AMIRI</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Burberry">Burberry</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Gucci">Gucci</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Prada">Prada</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Moncler">Moncler</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Stone+Island">Stone Island</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Off-White">Off-White</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Louis+Vuitton">Louis Vuitton</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy&brand=Chrome+Hearts">Chrome Hearts</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Nike">Nike</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=adidas">adidas</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Jordan">Jordan</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=AMIRI">AMIRI</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Burberry">Burberry</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Gucci">Gucci</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Prada">Prada</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Moncler">Moncler</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Stone+Island">Stone Island</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Off-White">Off-White</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Louis+Vuitton">Louis Vuitton</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy&brand=Chrome+Hearts">Chrome Hearts</a>
 </div>
 </section>
 
@@ -83,7 +83,7 @@ title: Litbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <div class="step-item"><span>02</span><div><h3>Review the current record</h3><p>Check the destination page for the current link, size information, price, availability, and any available QC material.</p></div></div>
 <div class="step-item"><span>03</span><div><h3>Confirm before checkout</h3><p>Sign in and complete purchasing only on the linked third-party destination. Confirm shipping, fees, and policies there.</p></div></div>
 </div>
-<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=Litbuy">Open Litbuy Data View ↗</a>
+<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=litbuy">Open Litbuy Data View ↗</a>
 </section>
 
 <section class="empty-state content-section">
