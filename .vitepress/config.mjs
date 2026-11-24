@@ -19,6 +19,7 @@ export default defineConfig({
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
+    ['meta', { name: 'google-site-verification', content: 'EnHLB-w90YQehCBgwxYRUVhmDEotaHdd9hx4cwuVWeM' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: siteTitle }],
     ['meta', { property: 'og:description', content: siteDescription }],
