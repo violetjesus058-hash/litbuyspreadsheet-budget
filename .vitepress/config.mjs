@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 const hostname = 'https://litbuyspreadsheet-budget.com'
-const siteTitle = 'Litbuy Spreadsheet Budget Finder'
-const siteDescription = 'Browse Litbuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
+const siteTitle = 'Litbuy Spreadsheet 2026: Budget Finds, QC Photos & Shopping Guides'
+const siteDescription = 'Explore Litbuy Spreadsheet budget finds by category, price range, brand, QC photos, size notes, shipping guidance, and shopping shortcuts through an independent directory.'
 
 export default defineConfig({
   title: siteTitle,
