@@ -15,6 +15,10 @@ Litbuy Spreadsheet Budget is an independent navigation and referral tool. We do 
 
 This Policy applies to this website and its pages. A linked destination has its own privacy policy and data practices.
 
+### How this Litbuy directory works
+
+The main interaction is a route from a budget, category, brand, or QC-reference shortcut to an external data view. A click may be recorded as a directory event so we can identify inactive routes and understand which Litbuy Spreadsheet entry points are useful. The destination, not this site, determines the item record, seller information, measurements, stock, and transaction terms.
+
 ## 2. Information we may collect
 
 ### Information you choose to provide
