@@ -107,4 +107,5 @@ title: "Litbuy Spreadsheet 2026: Budget Finds, QC Photos & Shopping Guides"
 <img src="/favicon.png" alt="Litbuy Spreadsheet Budget Finder icon" />
 <p>Litbuy Spreadsheet Budget is an independent directory for budget finds, QC photos, size notes, shipping guidance, and shopping shortcut links. External data belongs to its respective destination pages.</p>
 </section>
+<p class="privacy-link"><a href="/privacy-policy/" aria-label="Litbuy Spreadsheet Budget Privacy Policy" title="Litbuy Spreadsheet Budget Privacy Policy">Privacy Policy</a></p>
 </div>
